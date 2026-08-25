@@ -4,7 +4,7 @@
 Built a CNN model to classify human-drawn images, achieving **76.73% test accuracy** (see `Best_Kaggle_Submission.ipynb`). Applied data augmentation and pixel intensity normalization to improve generalization. A baseline linear SVM model and a denoising + CNN variant were also explored for comparison (see notebooks below).
 
 ### Tech Stack
-[Confirm: PyTorch or TensorFlow/Keras?], NumPy, Google Colab
+PyTorch, NumPy, Google Colab
 
 ### Notebooks
 - `Baseline_Kaggle_Submission.ipynb` — baseline linear SVM model
